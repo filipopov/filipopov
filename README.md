@@ -1,9 +1,9 @@
 ### Hi, I'm Filip 👋
 
 **Senior full stack engineer** · Java / Spring · React · cloud native · applied AI
-📍 Skopje, North Macedonia (CET) · open to remote contract work
+📍 Skopje, North Macedonia (CET)
 
-I own the integration layer behind the mobile and web banking apps of **70+ Swiss banks** (millions of end users): one API contract over several core banking systems. Since 2025 I'm also Backend Product Owner for a team of 5. I start with systems design and stay hands-on through delivery.
+I'm a senior engineer on the integration layer behind the mobile and web banking apps of **70+ Swiss banks** (millions of end users): one API contract over several core banking systems. I start with systems design and stay hands-on through delivery.
 
 On the side I build products end to end, from architecture to deployment:
 
